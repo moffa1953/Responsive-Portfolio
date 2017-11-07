@@ -1,0 +1,91 @@
+@media screen and (max-width: 768px) {
+
+	#headerbg {
+		width: 750px;
+	}
+
+	#headerContainer {
+		width: 750px;
+	}
+
+    #mainContainer {
+    	width: 750px;
+    	margin-right: 0px;
+    	margin-left: 0px;
+    }
+
+	#namebox {
+		background-color: #4aaaa5;
+	}
+
+	#navbox {
+		float: left;
+	}
+
+	#rightcolumn {
+		position: absolute;
+		top: 500px;
+		left: 0px;
+		height: 125px;
+
+	}
+
+	#leftcolumn {
+		width: 750px;
+		padding-left: 0px;
+		padding-right: 0px;
+		float: left;
+	}
+
+	#footer {
+		position: absolute;
+		top: 700px;
+		width: 100%;
+	}
+  
+}
+
+@media screen and (max-width: 640px) {
+
+	#headerbg {
+		width: 630px;
+	}
+
+	#headerContainer {
+		width: 630px;
+	}
+
+    #mainContainer {
+    	width: 630px;
+    	margin-right: 0px;
+    	margin-left: 0px;
+    }
+
+	#namebox {
+		background-color: #4aaaa5;
+	}
+
+	#navbox {
+		float: left;
+	}
+
+	#rightcolumn {
+		position: absolute;
+		top: 500px;
+		left: 0px;
+		height: 125px;
+
+	}
+
+	#leftcolumn {
+		width: 630px;
+		padding-left: 0px;
+		padding-right: 0px;
+		float: left;
+	}
+
+	#footer {
+		position: absolute;
+		top: 700px;
+		width: 100%;
+	}
